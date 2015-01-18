@@ -1,4 +1,4 @@
 # opencv-practices
 Let's learn OpenCV!!
 
-> UserKnownHostsFile ~/.ssh/known_hosts
+> I hope I can do it with C++, Python and Javascript :)
